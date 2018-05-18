@@ -13,6 +13,7 @@ package argumentos;
 *	¿Cómo mantener las modificaciones hechas dentro de un método? 
 *@author José María Romero Ruiz
 *@version 1.0 
+*-----------------------ya esta corregido------------------
 */
 public class Argumentos { 
 	public static void main(String[] args){
